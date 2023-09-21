@@ -8,3 +8,5 @@ Este repositorio es para un taller de Git del módulo IAW.
 Esto es un texto.
 
 Esto es un texto escrito por un compañero.
+
+Esta línea la escribo desde Github
