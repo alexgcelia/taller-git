@@ -12,3 +12,5 @@ Esto es un texto escrito por un compañero.
 Esta línea la escribo desde Github
 
 Soy Alex y estoy haciendo una prueba desde el VS Code
+
+Este es el fork del taller-git de Jose
